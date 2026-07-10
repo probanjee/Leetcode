@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0761-special-binary-string](https://github.com/probanjee/Leetcode/tree/master/0761-special-binary-string) |
+| [3721-longest-balanced-subarray-ii](https://github.com/probanjee/Leetcode/tree/master/3721-longest-balanced-subarray-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/probanjee/Leetcode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+| [3721-longest-balanced-subarray-ii](https://github.com/probanjee/Leetcode/tree/master/3721-longest-balanced-subarray-ii) |
 ## Rolling Hash
 |  |
 | ------- |
@@ -64,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/probanjee/Leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/probanjee/Leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+| [3721-longest-balanced-subarray-ii](https://github.com/probanjee/Leetcode/tree/master/3721-longest-balanced-subarray-ii) |
 ## Counting
 |  |
 | ------- |
@@ -84,4 +87,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/probanjee/Leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+## Segment Tree
+|  |
+| ------- |
+| [3721-longest-balanced-subarray-ii](https://github.com/probanjee/Leetcode/tree/master/3721-longest-balanced-subarray-ii) |
+## Prefix Sum
+|  |
+| ------- |
+| [3721-longest-balanced-subarray-ii](https://github.com/probanjee/Leetcode/tree/master/3721-longest-balanced-subarray-ii) |
 <!---LeetCode Topics End-->
