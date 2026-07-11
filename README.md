@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/probanjee/Leetcode/tree/master/0002-add-two-numbers) |
 | [0067-add-binary](https://github.com/probanjee/Leetcode/tree/master/0067-add-binary) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/probanjee/Leetcode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 ## Hash Table
@@ -125,4 +126,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2685-count-the-number-of-complete-components](https://github.com/probanjee/Leetcode/tree/master/2685-count-the-number-of-complete-components) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/probanjee/Leetcode/tree/master/0002-add-two-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/probanjee/Leetcode/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
