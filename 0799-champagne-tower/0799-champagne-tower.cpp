@@ -1,19 +1,39 @@
 class Solution {
 public:
     double champagneTower(int poured, int query_row, int query_glass) {
-        std::vector<std::vector<double>> tower(query_row + 1, std::vector<double>(query_row + 1, 0.0));
-        tower[0][0] = static_cast<double>(poured);
+        // We start with all the liquid in the single glass at the top (row 0)
+        vector<double> currentRow(1, (double)poured);
+        
+        for (int r = 0; r <= query_row; ++r) { 
+            // The next row always has one more glass than the current row
+            vector<double> nextRow(r + 2, 0.0); 
+            bool anyOverflow = false;
 
-        for (int row = 0; row < query_row; row++) {
-            for (int glass = 0; glass <= row; glass++) {
-                double excess = (tower[row][glass] - 1.0) / 2.0;
-                if (excess > 0) {
-                    tower[row + 1][glass] += excess;
-                    tower[row + 1][glass + 1] += excess;
+            for (int c = 0; c <= r; ++c) { 
+                // If the glass has more than 1 unit, it overflows
+                if (currentRow[c] > 1.0) { 
+                    double excess = currentRow[c] - 1.0;
+                    double splitFlow = excess / 2.0;
+                    
+                    nextRow[c] += splitFlow; 
+                    nextRow[c + 1] += splitFlow; 
+                    
+                    currentRow[c] = 1.0; // The glass remains full
+                    anyOverflow = true;
                 }
             }
-        }
+            
+            // Optimization: If no glass in this row overflowed, 
+            // rows below will stay empty.
+            if (!anyOverflow && r < query_row) {
+                return (r == query_row) ? currentRow[query_glass] : 0.0;
+            }
 
-        return std::min(1.0, tower[query_row][query_glass]);
+            if (r != query_row) {
+                currentRow = nextRow; 
+            }
+        }
+        
+        return currentRow[query_glass];
     }
 };
