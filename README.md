@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/probanjee/Leetcode/tree/master/0031-next-permutation) |
 | [0037-sudoku-solver](https://github.com/probanjee/Leetcode/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/probanjee/Leetcode/tree/master/0039-combination-sum) |
+| [0040-combination-sum-ii](https://github.com/probanjee/Leetcode/tree/master/0040-combination-sum-ii) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/probanjee/Leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/probanjee/Leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3721-longest-balanced-subarray-ii](https://github.com/probanjee/Leetcode/tree/master/3721-longest-balanced-subarray-ii) |
@@ -213,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/probanjee/Leetcode/tree/master/0022-generate-parentheses) |
 | [0037-sudoku-solver](https://github.com/probanjee/Leetcode/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/probanjee/Leetcode/tree/master/0039-combination-sum) |
+| [0040-combination-sum-ii](https://github.com/probanjee/Leetcode/tree/master/0040-combination-sum-ii) |
 ## Stack
 |  |
 | ------- |
