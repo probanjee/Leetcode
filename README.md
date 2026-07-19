@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/probanjee/Leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/probanjee/Leetcode/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/probanjee/Leetcode/tree/master/0029-divide-two-integers) |
+| [0048-rotate-image](https://github.com/probanjee/Leetcode/tree/master/0048-rotate-image) |
 | [0067-add-binary](https://github.com/probanjee/Leetcode/tree/master/0067-add-binary) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/probanjee/Leetcode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 ## Hash Table
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/probanjee/Leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/probanjee/Leetcode/tree/master/0040-combination-sum-ii) |
 | [0041-first-missing-positive](https://github.com/probanjee/Leetcode/tree/master/0041-first-missing-positive) |
+| [0048-rotate-image](https://github.com/probanjee/Leetcode/tree/master/0048-rotate-image) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/probanjee/Leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/probanjee/Leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3721-longest-balanced-subarray-ii](https://github.com/probanjee/Leetcode/tree/master/3721-longest-balanced-subarray-ii) |
@@ -237,4 +239,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/probanjee/Leetcode/tree/master/0037-sudoku-solver) |
+| [0048-rotate-image](https://github.com/probanjee/Leetcode/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
