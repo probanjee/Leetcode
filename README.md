@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/probanjee/Leetcode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/probanjee/Leetcode/tree/master/0018-4sum) |
 | [0049-group-anagrams](https://github.com/probanjee/Leetcode/tree/master/0049-group-anagrams) |
+| [0056-merge-intervals](https://github.com/probanjee/Leetcode/tree/master/0056-merge-intervals) |
 | [0761-special-binary-string](https://github.com/probanjee/Leetcode/tree/master/0761-special-binary-string) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/probanjee/Leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/probanjee/Leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/probanjee/Leetcode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/probanjee/Leetcode/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/probanjee/Leetcode/tree/master/0055-jump-game) |
+| [0056-merge-intervals](https://github.com/probanjee/Leetcode/tree/master/0056-merge-intervals) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/probanjee/Leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/probanjee/Leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3721-longest-balanced-subarray-ii](https://github.com/probanjee/Leetcode/tree/master/3721-longest-balanced-subarray-ii) |
