@@ -135,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/probanjee/Leetcode/tree/master/0041-first-missing-positive) |
 | [0048-rotate-image](https://github.com/probanjee/Leetcode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/probanjee/Leetcode/tree/master/0049-group-anagrams) |
+| [0051-n-queens](https://github.com/probanjee/Leetcode/tree/master/0051-n-queens) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/probanjee/Leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/probanjee/Leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3721-longest-balanced-subarray-ii](https://github.com/probanjee/Leetcode/tree/master/3721-longest-balanced-subarray-ii) |
@@ -225,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/probanjee/Leetcode/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/probanjee/Leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/probanjee/Leetcode/tree/master/0040-combination-sum-ii) |
+| [0051-n-queens](https://github.com/probanjee/Leetcode/tree/master/0051-n-queens) |
 ## Stack
 |  |
 | ------- |
