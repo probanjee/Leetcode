@@ -143,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/probanjee/Leetcode/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/probanjee/Leetcode/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/probanjee/Leetcode/tree/master/0056-merge-intervals) |
+| [0057-insert-interval](https://github.com/probanjee/Leetcode/tree/master/0057-insert-interval) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/probanjee/Leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/probanjee/Leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3721-longest-balanced-subarray-ii](https://github.com/probanjee/Leetcode/tree/master/3721-longest-balanced-subarray-ii) |
