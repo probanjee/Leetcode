@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/probanjee/Leetcode/tree/master/0067-add-binary) |
 | [0696-count-binary-substrings](https://github.com/probanjee/Leetcode/tree/master/0696-count-binary-substrings) |
 | [0761-special-binary-string](https://github.com/probanjee/Leetcode/tree/master/0761-special-binary-string) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/probanjee/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/probanjee/Leetcode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [3713-longest-balanced-substring-i](https://github.com/probanjee/Leetcode/tree/master/3713-longest-balanced-substring-i) |
 | [3714-longest-balanced-substring-ii](https://github.com/probanjee/Leetcode/tree/master/3714-longest-balanced-substring-ii) |
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/probanjee/Leetcode/tree/master/0011-container-with-most-water) |
 | [0055-jump-game](https://github.com/probanjee/Leetcode/tree/master/0055-jump-game) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/probanjee/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/probanjee/Leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Graph Theory
 |  |
@@ -242,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/probanjee/Leetcode/tree/master/0020-valid-parentheses) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/probanjee/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -260,4 +263,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/probanjee/Leetcode/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/probanjee/Leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/probanjee/Leetcode/tree/master/0054-spiral-matrix) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/probanjee/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 <!---LeetCode Topics End-->
