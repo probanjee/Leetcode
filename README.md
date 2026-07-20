@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/probanjee/Leetcode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/probanjee/Leetcode/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/probanjee/Leetcode/tree/master/0060-permutation-sequence) |
+| [0062-unique-paths](https://github.com/probanjee/Leetcode/tree/master/0062-unique-paths) |
 | [0067-add-binary](https://github.com/probanjee/Leetcode/tree/master/0067-add-binary) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/probanjee/Leetcode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 ## Hash Table
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/probanjee/Leetcode/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/probanjee/Leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/probanjee/Leetcode/tree/master/0055-jump-game) |
+| [0062-unique-paths](https://github.com/probanjee/Leetcode/tree/master/0062-unique-paths) |
 | [0799-champagne-tower](https://github.com/probanjee/Leetcode/tree/master/0799-champagne-tower) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/probanjee/Leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Greedy
@@ -276,4 +278,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/probanjee/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/probanjee/Leetcode/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
