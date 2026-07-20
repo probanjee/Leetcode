@@ -146,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0096-unique-binary-search-trees](https://github.com/probanjee/Leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/probanjee/Leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/probanjee/Leetcode/tree/master/0099-recover-binary-search-tree) |
+| [0100-same-tree](https://github.com/probanjee/Leetcode/tree/master/0100-same-tree) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/probanjee/Leetcode/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 ## Depth-First Search
 |  |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/probanjee/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/probanjee/Leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/probanjee/Leetcode/tree/master/0099-recover-binary-search-tree) |
+| [0100-same-tree](https://github.com/probanjee/Leetcode/tree/master/0100-same-tree) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/probanjee/Leetcode/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [2685-count-the-number-of-complete-components](https://github.com/probanjee/Leetcode/tree/master/2685-count-the-number-of-complete-components) |
 ## Binary Tree
@@ -164,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0096-unique-binary-search-trees](https://github.com/probanjee/Leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/probanjee/Leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/probanjee/Leetcode/tree/master/0099-recover-binary-search-tree) |
+| [0100-same-tree](https://github.com/probanjee/Leetcode/tree/master/0100-same-tree) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/probanjee/Leetcode/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 ## Array
 |  |
@@ -278,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/probanjee/Leetcode/tree/master/0100-same-tree) |
 | [2685-count-the-number-of-complete-components](https://github.com/probanjee/Leetcode/tree/master/2685-count-the-number-of-complete-components) |
 ## Union-Find
 |  |
