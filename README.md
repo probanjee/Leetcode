@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0029-divide-two-integers](https://github.com/probanjee/Leetcode/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/probanjee/Leetcode/tree/master/0067-add-binary) |
+| [0078-subsets](https://github.com/probanjee/Leetcode/tree/master/0078-subsets) |
 | [0693-binary-number-with-alternating-bits](https://github.com/probanjee/Leetcode/tree/master/0693-binary-number-with-alternating-bits) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/probanjee/Leetcode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0868-binary-gap](https://github.com/probanjee/Leetcode/tree/master/0868-binary-gap) |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/probanjee/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/probanjee/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/probanjee/Leetcode/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/probanjee/Leetcode/tree/master/0078-subsets) |
 | [1260-shift-2d-grid](https://github.com/probanjee/Leetcode/tree/master/1260-shift-2d-grid) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/probanjee/Leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/probanjee/Leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -280,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/probanjee/Leetcode/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/probanjee/Leetcode/tree/master/0052-n-queens-ii) |
 | [0077-combinations](https://github.com/probanjee/Leetcode/tree/master/0077-combinations) |
+| [0078-subsets](https://github.com/probanjee/Leetcode/tree/master/0078-subsets) |
 ## Stack
 |  |
 | ------- |
