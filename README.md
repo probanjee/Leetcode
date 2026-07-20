@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0071-simplify-path](https://github.com/probanjee/Leetcode/tree/master/0071-simplify-path) |
 | [0072-edit-distance](https://github.com/probanjee/Leetcode/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/probanjee/Leetcode/tree/master/0076-minimum-window-substring) |
+| [0079-word-search](https://github.com/probanjee/Leetcode/tree/master/0079-word-search) |
 | [0696-count-binary-substrings](https://github.com/probanjee/Leetcode/tree/master/0696-count-binary-substrings) |
 | [0761-special-binary-string](https://github.com/probanjee/Leetcode/tree/master/0761-special-binary-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/probanjee/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/probanjee/Leetcode/tree/master/0079-word-search) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/probanjee/Leetcode/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [2685-count-the-number-of-complete-components](https://github.com/probanjee/Leetcode/tree/master/2685-count-the-number-of-complete-components) |
 ## Binary Tree
@@ -170,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/probanjee/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/probanjee/Leetcode/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/probanjee/Leetcode/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/probanjee/Leetcode/tree/master/0079-word-search) |
 | [1260-shift-2d-grid](https://github.com/probanjee/Leetcode/tree/master/1260-shift-2d-grid) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/probanjee/Leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/probanjee/Leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -283,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0052-n-queens-ii](https://github.com/probanjee/Leetcode/tree/master/0052-n-queens-ii) |
 | [0077-combinations](https://github.com/probanjee/Leetcode/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/probanjee/Leetcode/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/probanjee/Leetcode/tree/master/0079-word-search) |
 ## Stack
 |  |
 | ------- |
@@ -312,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/probanjee/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/probanjee/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/probanjee/Leetcode/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/probanjee/Leetcode/tree/master/0079-word-search) |
 | [1260-shift-2d-grid](https://github.com/probanjee/Leetcode/tree/master/1260-shift-2d-grid) |
 ## Monotonic Stack
 |  |
