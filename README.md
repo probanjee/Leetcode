@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/probanjee/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/probanjee/Leetcode/tree/master/0079-word-search) |
 | [0087-scramble-string](https://github.com/probanjee/Leetcode/tree/master/0087-scramble-string) |
+| [0091-decode-ways](https://github.com/probanjee/Leetcode/tree/master/0091-decode-ways) |
 | [0696-count-binary-substrings](https://github.com/probanjee/Leetcode/tree/master/0696-count-binary-substrings) |
 | [0761-special-binary-string](https://github.com/probanjee/Leetcode/tree/master/0761-special-binary-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/probanjee/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -219,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0072-edit-distance](https://github.com/probanjee/Leetcode/tree/master/0072-edit-distance) |
 | [0085-maximal-rectangle](https://github.com/probanjee/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0087-scramble-string](https://github.com/probanjee/Leetcode/tree/master/0087-scramble-string) |
+| [0091-decode-ways](https://github.com/probanjee/Leetcode/tree/master/0091-decode-ways) |
 | [0799-champagne-tower](https://github.com/probanjee/Leetcode/tree/master/0799-champagne-tower) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/probanjee/Leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Greedy
