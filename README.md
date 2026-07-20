@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/probanjee/Leetcode/tree/master/0058-length-of-last-word) |
 | [0065-valid-number](https://github.com/probanjee/Leetcode/tree/master/0065-valid-number) |
 | [0067-add-binary](https://github.com/probanjee/Leetcode/tree/master/0067-add-binary) |
+| [0068-text-justification](https://github.com/probanjee/Leetcode/tree/master/0068-text-justification) |
 | [0696-count-binary-substrings](https://github.com/probanjee/Leetcode/tree/master/0696-count-binary-substrings) |
 | [0761-special-binary-string](https://github.com/probanjee/Leetcode/tree/master/0761-special-binary-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/probanjee/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/probanjee/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/probanjee/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/probanjee/Leetcode/tree/master/0066-plus-one) |
+| [0068-text-justification](https://github.com/probanjee/Leetcode/tree/master/0068-text-justification) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/probanjee/Leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/probanjee/Leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3721-longest-balanced-subarray-ii](https://github.com/probanjee/Leetcode/tree/master/3721-longest-balanced-subarray-ii) |
@@ -210,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/probanjee/Leetcode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/probanjee/Leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0067-add-binary](https://github.com/probanjee/Leetcode/tree/master/0067-add-binary) |
+| [0068-text-justification](https://github.com/probanjee/Leetcode/tree/master/0068-text-justification) |
 ## Breadth-First Search
 |  |
 | ------- |
