@@ -134,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0089-gray-code](https://github.com/probanjee/Leetcode/tree/master/0089-gray-code) |
 | [0096-unique-binary-search-trees](https://github.com/probanjee/Leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0149-max-points-on-a-line](https://github.com/probanjee/Leetcode/tree/master/0149-max-points-on-a-line) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/probanjee/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/probanjee/Leetcode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 ## Hash Table
 |  |
@@ -311,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/probanjee/Leetcode/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/probanjee/Leetcode/tree/master/0140-word-break-ii) |
 | [0149-max-points-on-a-line](https://github.com/probanjee/Leetcode/tree/master/0149-max-points-on-a-line) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/probanjee/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [1260-shift-2d-grid](https://github.com/probanjee/Leetcode/tree/master/1260-shift-2d-grid) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/probanjee/Leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/probanjee/Leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -500,6 +502,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/probanjee/Leetcode/tree/master/0143-reorder-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/probanjee/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/probanjee/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/probanjee/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/probanjee/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Heap (Priority Queue)
 |  |
