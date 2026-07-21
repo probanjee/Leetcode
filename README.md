@@ -139,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/probanjee/Leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0126-word-ladder-ii](https://github.com/probanjee/Leetcode/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/probanjee/Leetcode/tree/master/0127-word-ladder) |
+| [0128-longest-consecutive-sequence](https://github.com/probanjee/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/probanjee/Leetcode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [3713-longest-balanced-substring-i](https://github.com/probanjee/Leetcode/tree/master/3713-longest-balanced-substring-i) |
 | [3714-longest-balanced-substring-ii](https://github.com/probanjee/Leetcode/tree/master/3714-longest-balanced-substring-ii) |
@@ -268,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/probanjee/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/probanjee/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/probanjee/Leetcode/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
+| [0128-longest-consecutive-sequence](https://github.com/probanjee/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [1260-shift-2d-grid](https://github.com/probanjee/Leetcode/tree/master/1260-shift-2d-grid) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/probanjee/Leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/probanjee/Leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -365,6 +367,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/probanjee/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [2685-count-the-number-of-complete-components](https://github.com/probanjee/Leetcode/tree/master/2685-count-the-number-of-complete-components) |
 ## Linked List
 |  |
