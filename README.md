@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/probanjee/Leetcode/tree/master/0070-climbing-stairs) |
 | [0089-gray-code](https://github.com/probanjee/Leetcode/tree/master/0089-gray-code) |
 | [0096-unique-binary-search-trees](https://github.com/probanjee/Leetcode/tree/master/0096-unique-binary-search-trees) |
+| [0149-max-points-on-a-line](https://github.com/probanjee/Leetcode/tree/master/0149-max-points-on-a-line) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/probanjee/Leetcode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 ## Hash Table
 |  |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/probanjee/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/probanjee/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/probanjee/Leetcode/tree/master/0146-lru-cache) |
+| [0149-max-points-on-a-line](https://github.com/probanjee/Leetcode/tree/master/0149-max-points-on-a-line) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/probanjee/Leetcode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [3713-longest-balanced-substring-i](https://github.com/probanjee/Leetcode/tree/master/3713-longest-balanced-substring-i) |
 | [3714-longest-balanced-substring-ii](https://github.com/probanjee/Leetcode/tree/master/3714-longest-balanced-substring-ii) |
@@ -308,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0137-single-number-ii](https://github.com/probanjee/Leetcode/tree/master/0137-single-number-ii) |
 | [0139-word-break](https://github.com/probanjee/Leetcode/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/probanjee/Leetcode/tree/master/0140-word-break-ii) |
+| [0149-max-points-on-a-line](https://github.com/probanjee/Leetcode/tree/master/0149-max-points-on-a-line) |
 | [1260-shift-2d-grid](https://github.com/probanjee/Leetcode/tree/master/1260-shift-2d-grid) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/probanjee/Leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/probanjee/Leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -558,4 +561,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/probanjee/Leetcode/tree/master/0146-lru-cache) |
+## Geometry
+|  |
+| ------- |
+| [0149-max-points-on-a-line](https://github.com/probanjee/Leetcode/tree/master/0149-max-points-on-a-line) |
 <!---LeetCode Topics End-->
