@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/probanjee/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/probanjee/Leetcode/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/probanjee/Leetcode/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/probanjee/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0696-count-binary-substrings](https://github.com/probanjee/Leetcode/tree/master/0696-count-binary-substrings) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/probanjee/Leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## String
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/probanjee/Leetcode/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/probanjee/Leetcode/tree/master/0140-word-break-ii) |
 | [0141-linked-list-cycle](https://github.com/probanjee/Leetcode/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/probanjee/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/probanjee/Leetcode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [3713-longest-balanced-substring-i](https://github.com/probanjee/Leetcode/tree/master/3713-longest-balanced-substring-i) |
 | [3714-longest-balanced-substring-ii](https://github.com/probanjee/Leetcode/tree/master/3714-longest-balanced-substring-ii) |
@@ -422,6 +424,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/probanjee/Leetcode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0138-copy-list-with-random-pointer](https://github.com/probanjee/Leetcode/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/probanjee/Leetcode/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/probanjee/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 ## Recursion
 |  |
 | ------- |
