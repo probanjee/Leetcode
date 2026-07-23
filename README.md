@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/probanjee/Leetcode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/probanjee/Leetcode/tree/master/0137-single-number-ii) |
 | [0187-repeated-dna-sequences](https://github.com/probanjee/Leetcode/tree/master/0187-repeated-dna-sequences) |
+| [0190-reverse-bits](https://github.com/probanjee/Leetcode/tree/master/0190-reverse-bits) |
 | [0693-binary-number-with-alternating-bits](https://github.com/probanjee/Leetcode/tree/master/0693-binary-number-with-alternating-bits) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/probanjee/Leetcode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0868-binary-gap](https://github.com/probanjee/Leetcode/tree/master/0868-binary-gap) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/probanjee/Leetcode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0148-sort-list](https://github.com/probanjee/Leetcode/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/probanjee/Leetcode/tree/master/0169-majority-element) |
+| [0190-reverse-bits](https://github.com/probanjee/Leetcode/tree/master/0190-reverse-bits) |
 | [0761-special-binary-string](https://github.com/probanjee/Leetcode/tree/master/0761-special-binary-string) |
 | [3721-longest-balanced-subarray-ii](https://github.com/probanjee/Leetcode/tree/master/3721-longest-balanced-subarray-ii) |
 ## Sorting
