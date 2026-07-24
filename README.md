@@ -160,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0168-excel-sheet-column-title](https://github.com/probanjee/Leetcode/tree/master/0168-excel-sheet-column-title) |
 | [0189-rotate-array](https://github.com/probanjee/Leetcode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/probanjee/Leetcode/tree/master/0202-happy-number) |
+| [0204-count-primes](https://github.com/probanjee/Leetcode/tree/master/0204-count-primes) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/probanjee/Leetcode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/probanjee/Leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
 ## Hash Table
@@ -362,6 +363,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/probanjee/Leetcode/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/probanjee/Leetcode/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/probanjee/Leetcode/tree/master/0200-number-of-islands) |
+| [0204-count-primes](https://github.com/probanjee/Leetcode/tree/master/0204-count-primes) |
 | [1260-shift-2d-grid](https://github.com/probanjee/Leetcode/tree/master/1260-shift-2d-grid) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/probanjee/Leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/probanjee/Leetcode/tree/master/3501-maximize-active-section-with-trade-ii) |
@@ -450,6 +452,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/probanjee/Leetcode/tree/master/0204-count-primes) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/probanjee/Leetcode/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3713-longest-balanced-substring-i](https://github.com/probanjee/Leetcode/tree/master/3713-longest-balanced-substring-i) |
 ## Simulation
@@ -669,4 +672,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0185-department-top-three-salaries](https://github.com/probanjee/Leetcode/tree/master/0185-department-top-three-salaries) |
 | [0196-delete-duplicate-emails](https://github.com/probanjee/Leetcode/tree/master/0196-delete-duplicate-emails) |
 | [0197-rising-temperature](https://github.com/probanjee/Leetcode/tree/master/0197-rising-temperature) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/probanjee/Leetcode/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
