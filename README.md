@@ -231,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/probanjee/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/probanjee/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0173-binary-search-tree-iterator](https://github.com/probanjee/Leetcode/tree/master/0173-binary-search-tree-iterator) |
+| [0199-binary-tree-right-side-view](https://github.com/probanjee/Leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/probanjee/Leetcode/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 ## Depth-First Search
 |  |
@@ -255,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0133-clone-graph](https://github.com/probanjee/Leetcode/tree/master/0133-clone-graph) |
 | [0144-binary-tree-preorder-traversal](https://github.com/probanjee/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/probanjee/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0199-binary-tree-right-side-view](https://github.com/probanjee/Leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/probanjee/Leetcode/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [2685-count-the-number-of-complete-components](https://github.com/probanjee/Leetcode/tree/master/2685-count-the-number-of-complete-components) |
 ## Binary Tree
@@ -285,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/probanjee/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/probanjee/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0173-binary-search-tree-iterator](https://github.com/probanjee/Leetcode/tree/master/0173-binary-search-tree-iterator) |
+| [0199-binary-tree-right-side-view](https://github.com/probanjee/Leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/probanjee/Leetcode/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 ## Array
 |  |
@@ -467,6 +470,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/probanjee/Leetcode/tree/master/0127-word-ladder) |
 | [0130-surrounded-regions](https://github.com/probanjee/Leetcode/tree/master/0130-surrounded-regions) |
 | [0133-clone-graph](https://github.com/probanjee/Leetcode/tree/master/0133-clone-graph) |
+| [0199-binary-tree-right-side-view](https://github.com/probanjee/Leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [2685-count-the-number-of-complete-components](https://github.com/probanjee/Leetcode/tree/master/2685-count-the-number-of-complete-components) |
 ## Union-Find
 |  |
