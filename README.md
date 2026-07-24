@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0168-excel-sheet-column-title](https://github.com/probanjee/Leetcode/tree/master/0168-excel-sheet-column-title) |
 | [0179-largest-number](https://github.com/probanjee/Leetcode/tree/master/0179-largest-number) |
 | [0187-repeated-dna-sequences](https://github.com/probanjee/Leetcode/tree/master/0187-repeated-dna-sequences) |
+| [0205-isomorphic-strings](https://github.com/probanjee/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0696-count-binary-substrings](https://github.com/probanjee/Leetcode/tree/master/0696-count-binary-substrings) |
 | [0761-special-binary-string](https://github.com/probanjee/Leetcode/tree/master/0761-special-binary-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/probanjee/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -194,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/probanjee/Leetcode/tree/master/0169-majority-element) |
 | [0187-repeated-dna-sequences](https://github.com/probanjee/Leetcode/tree/master/0187-repeated-dna-sequences) |
 | [0202-happy-number](https://github.com/probanjee/Leetcode/tree/master/0202-happy-number) |
+| [0205-isomorphic-strings](https://github.com/probanjee/Leetcode/tree/master/0205-isomorphic-strings) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/probanjee/Leetcode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [3713-longest-balanced-substring-i](https://github.com/probanjee/Leetcode/tree/master/3713-longest-balanced-substring-i) |
 | [3714-longest-balanced-substring-ii](https://github.com/probanjee/Leetcode/tree/master/3714-longest-balanced-substring-ii) |
