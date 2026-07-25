@@ -139,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0761-special-binary-string](https://github.com/probanjee/Leetcode/tree/master/0761-special-binary-string) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/probanjee/Leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/probanjee/Leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+| [3536-maximum-product-of-two-digits](https://github.com/probanjee/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
 ## Math
 |  |
 | ------- |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/probanjee/Leetcode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/probanjee/Leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/probanjee/Leetcode/tree/master/3514-number-of-unique-xor-triplets-ii) |
+| [3536-maximum-product-of-two-digits](https://github.com/probanjee/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
 ## Hash Table
 |  |
 | ------- |
