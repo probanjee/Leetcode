@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0190-reverse-bits](https://github.com/probanjee/Leetcode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/probanjee/Leetcode/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/probanjee/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0218-the-skyline-problem](https://github.com/probanjee/Leetcode/tree/master/0218-the-skyline-problem) |
 | [0761-special-binary-string](https://github.com/probanjee/Leetcode/tree/master/0761-special-binary-string) |
 | [3721-longest-balanced-subarray-ii](https://github.com/probanjee/Leetcode/tree/master/3721-longest-balanced-subarray-ii) |
 ## Sorting
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/probanjee/Leetcode/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/probanjee/Leetcode/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/probanjee/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0218-the-skyline-problem](https://github.com/probanjee/Leetcode/tree/master/0218-the-skyline-problem) |
 | [0628-maximum-product-of-three-numbers](https://github.com/probanjee/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0761-special-binary-string](https://github.com/probanjee/Leetcode/tree/master/0761-special-binary-string) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/probanjee/Leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
@@ -388,6 +390,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/probanjee/Leetcode/tree/master/0213-house-robber-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/probanjee/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0216-combination-sum-iii](https://github.com/probanjee/Leetcode/tree/master/0216-combination-sum-iii) |
+| [0218-the-skyline-problem](https://github.com/probanjee/Leetcode/tree/master/0218-the-skyline-problem) |
 | [0628-maximum-product-of-three-numbers](https://github.com/probanjee/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1260-shift-2d-grid](https://github.com/probanjee/Leetcode/tree/master/1260-shift-2d-grid) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/probanjee/Leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
@@ -471,6 +474,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Segment Tree
 |  |
 | ------- |
+| [0218-the-skyline-problem](https://github.com/probanjee/Leetcode/tree/master/0218-the-skyline-problem) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/probanjee/Leetcode/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3721-longest-balanced-subarray-ii](https://github.com/probanjee/Leetcode/tree/master/3721-longest-balanced-subarray-ii) |
 ## Prefix Sum
@@ -620,6 +624,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/probanjee/Leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/probanjee/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0218-the-skyline-problem](https://github.com/probanjee/Leetcode/tree/master/0218-the-skyline-problem) |
 ## Merge Sort
 |  |
 | ------- |
@@ -729,4 +734,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/probanjee/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0218-the-skyline-problem](https://github.com/probanjee/Leetcode/tree/master/0218-the-skyline-problem) |
+## Sweep Line
+|  |
+| ------- |
+| [0218-the-skyline-problem](https://github.com/probanjee/Leetcode/tree/master/0218-the-skyline-problem) |
+## Ordered Set
+|  |
+| ------- |
+| [0218-the-skyline-problem](https://github.com/probanjee/Leetcode/tree/master/0218-the-skyline-problem) |
 <!---LeetCode Topics End-->
