@@ -212,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/probanjee/Leetcode/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/probanjee/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/probanjee/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
+| [0219-contains-duplicate-ii](https://github.com/probanjee/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/probanjee/Leetcode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [3713-longest-balanced-substring-i](https://github.com/probanjee/Leetcode/tree/master/3713-longest-balanced-substring-i) |
 | [3714-longest-balanced-substring-ii](https://github.com/probanjee/Leetcode/tree/master/3714-longest-balanced-substring-ii) |
@@ -392,6 +393,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/probanjee/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0216-combination-sum-iii](https://github.com/probanjee/Leetcode/tree/master/0216-combination-sum-iii) |
 | [0218-the-skyline-problem](https://github.com/probanjee/Leetcode/tree/master/0218-the-skyline-problem) |
+| [0219-contains-duplicate-ii](https://github.com/probanjee/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/probanjee/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1260-shift-2d-grid](https://github.com/probanjee/Leetcode/tree/master/1260-shift-2d-grid) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/probanjee/Leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
@@ -573,6 +575,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0030-substring-with-concatenation-of-all-words](https://github.com/probanjee/Leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0076-minimum-window-substring](https://github.com/probanjee/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0187-repeated-dna-sequences](https://github.com/probanjee/Leetcode/tree/master/0187-repeated-dna-sequences) |
+| [0219-contains-duplicate-ii](https://github.com/probanjee/Leetcode/tree/master/0219-contains-duplicate-ii) |
 ## Trie
 |  |
 | ------- |
