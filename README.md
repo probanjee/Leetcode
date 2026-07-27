@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0208-implement-trie-prefix-tree](https://github.com/probanjee/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/probanjee/Leetcode/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0212-word-search-ii](https://github.com/probanjee/Leetcode/tree/master/0212-word-search-ii) |
+| [0214-shortest-palindrome](https://github.com/probanjee/Leetcode/tree/master/0214-shortest-palindrome) |
 | [0696-count-binary-substrings](https://github.com/probanjee/Leetcode/tree/master/0696-count-binary-substrings) |
 | [0761-special-binary-string](https://github.com/probanjee/Leetcode/tree/master/0761-special-binary-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/probanjee/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -214,11 +215,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/probanjee/Leetcode/tree/master/0187-repeated-dna-sequences) |
+| [0214-shortest-palindrome](https://github.com/probanjee/Leetcode/tree/master/0214-shortest-palindrome) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/probanjee/Leetcode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 ## Hash Function
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/probanjee/Leetcode/tree/master/0187-repeated-dna-sequences) |
+| [0214-shortest-palindrome](https://github.com/probanjee/Leetcode/tree/master/0214-shortest-palindrome) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/probanjee/Leetcode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 ## Tree
 |  |
@@ -620,6 +623,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/probanjee/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0214-shortest-palindrome](https://github.com/probanjee/Leetcode/tree/master/0214-shortest-palindrome) |
 ## Matrix
 |  |
 | ------- |
