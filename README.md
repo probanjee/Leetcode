@@ -176,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/probanjee/Leetcode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/probanjee/Leetcode/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/probanjee/Leetcode/tree/master/0204-count-primes) |
+| [0223-rectangle-area](https://github.com/probanjee/Leetcode/tree/master/0223-rectangle-area) |
 | [0628-maximum-product-of-three-numbers](https://github.com/probanjee/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/probanjee/Leetcode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/probanjee/Leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -710,6 +711,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0149-max-points-on-a-line](https://github.com/probanjee/Leetcode/tree/master/0149-max-points-on-a-line) |
+| [0223-rectangle-area](https://github.com/probanjee/Leetcode/tree/master/0223-rectangle-area) |
 ## Bucket Sort
 |  |
 | ------- |
