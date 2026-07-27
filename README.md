@@ -396,6 +396,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0218-the-skyline-problem](https://github.com/probanjee/Leetcode/tree/master/0218-the-skyline-problem) |
 | [0219-contains-duplicate-ii](https://github.com/probanjee/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0220-contains-duplicate-iii](https://github.com/probanjee/Leetcode/tree/master/0220-contains-duplicate-iii) |
+| [0221-maximal-square](https://github.com/probanjee/Leetcode/tree/master/0221-maximal-square) |
 | [0628-maximum-product-of-three-numbers](https://github.com/probanjee/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1260-shift-2d-grid](https://github.com/probanjee/Leetcode/tree/master/1260-shift-2d-grid) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/probanjee/Leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
@@ -456,6 +457,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/probanjee/Leetcode/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0198-house-robber](https://github.com/probanjee/Leetcode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/probanjee/Leetcode/tree/master/0213-house-robber-ii) |
+| [0221-maximal-square](https://github.com/probanjee/Leetcode/tree/master/0221-maximal-square) |
 | [0799-champagne-tower](https://github.com/probanjee/Leetcode/tree/master/0799-champagne-tower) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/probanjee/Leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Greedy
@@ -661,6 +663,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0174-dungeon-game](https://github.com/probanjee/Leetcode/tree/master/0174-dungeon-game) |
 | [0200-number-of-islands](https://github.com/probanjee/Leetcode/tree/master/0200-number-of-islands) |
 | [0212-word-search-ii](https://github.com/probanjee/Leetcode/tree/master/0212-word-search-ii) |
+| [0221-maximal-square](https://github.com/probanjee/Leetcode/tree/master/0221-maximal-square) |
 | [1260-shift-2d-grid](https://github.com/probanjee/Leetcode/tree/master/1260-shift-2d-grid) |
 ## Monotonic Stack
 |  |
