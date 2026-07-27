@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0211-design-add-and-search-words-data-structure](https://github.com/probanjee/Leetcode/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0212-word-search-ii](https://github.com/probanjee/Leetcode/tree/master/0212-word-search-ii) |
 | [0214-shortest-palindrome](https://github.com/probanjee/Leetcode/tree/master/0214-shortest-palindrome) |
+| [0224-basic-calculator](https://github.com/probanjee/Leetcode/tree/master/0224-basic-calculator) |
 | [0696-count-binary-substrings](https://github.com/probanjee/Leetcode/tree/master/0696-count-binary-substrings) |
 | [0761-special-binary-string](https://github.com/probanjee/Leetcode/tree/master/0761-special-binary-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/probanjee/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/probanjee/Leetcode/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/probanjee/Leetcode/tree/master/0204-count-primes) |
 | [0223-rectangle-area](https://github.com/probanjee/Leetcode/tree/master/0223-rectangle-area) |
+| [0224-basic-calculator](https://github.com/probanjee/Leetcode/tree/master/0224-basic-calculator) |
 | [0628-maximum-product-of-three-numbers](https://github.com/probanjee/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/probanjee/Leetcode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/probanjee/Leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -577,6 +579,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/probanjee/Leetcode/tree/master/0143-reorder-list) |
 | [0203-remove-linked-list-elements](https://github.com/probanjee/Leetcode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/probanjee/Leetcode/tree/master/0206-reverse-linked-list) |
+| [0224-basic-calculator](https://github.com/probanjee/Leetcode/tree/master/0224-basic-calculator) |
 ## Sliding Window
 |  |
 | ------- |
@@ -633,6 +636,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/probanjee/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/probanjee/Leetcode/tree/master/0155-min-stack) |
 | [0173-binary-search-tree-iterator](https://github.com/probanjee/Leetcode/tree/master/0173-binary-search-tree-iterator) |
+| [0224-basic-calculator](https://github.com/probanjee/Leetcode/tree/master/0224-basic-calculator) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/probanjee/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Heap (Priority Queue)
 |  |
