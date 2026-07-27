@@ -142,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/probanjee/Leetcode/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/probanjee/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0218-the-skyline-problem](https://github.com/probanjee/Leetcode/tree/master/0218-the-skyline-problem) |
+| [0220-contains-duplicate-iii](https://github.com/probanjee/Leetcode/tree/master/0220-contains-duplicate-iii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/probanjee/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0761-special-binary-string](https://github.com/probanjee/Leetcode/tree/master/0761-special-binary-string) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/probanjee/Leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
@@ -394,6 +395,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0216-combination-sum-iii](https://github.com/probanjee/Leetcode/tree/master/0216-combination-sum-iii) |
 | [0218-the-skyline-problem](https://github.com/probanjee/Leetcode/tree/master/0218-the-skyline-problem) |
 | [0219-contains-duplicate-ii](https://github.com/probanjee/Leetcode/tree/master/0219-contains-duplicate-ii) |
+| [0220-contains-duplicate-iii](https://github.com/probanjee/Leetcode/tree/master/0220-contains-duplicate-iii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/probanjee/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1260-shift-2d-grid](https://github.com/probanjee/Leetcode/tree/master/1260-shift-2d-grid) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/probanjee/Leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
@@ -576,6 +578,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/probanjee/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0187-repeated-dna-sequences](https://github.com/probanjee/Leetcode/tree/master/0187-repeated-dna-sequences) |
 | [0219-contains-duplicate-ii](https://github.com/probanjee/Leetcode/tree/master/0219-contains-duplicate-ii) |
+| [0220-contains-duplicate-iii](https://github.com/probanjee/Leetcode/tree/master/0220-contains-duplicate-iii) |
 ## Trie
 |  |
 | ------- |
@@ -704,6 +707,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/probanjee/Leetcode/tree/master/0164-maximum-gap) |
+| [0220-contains-duplicate-iii](https://github.com/probanjee/Leetcode/tree/master/0220-contains-duplicate-iii) |
 ## Radix Sort
 |  |
 | ------- |
@@ -752,4 +756,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0218-the-skyline-problem](https://github.com/probanjee/Leetcode/tree/master/0218-the-skyline-problem) |
+| [0220-contains-duplicate-iii](https://github.com/probanjee/Leetcode/tree/master/0220-contains-duplicate-iii) |
 <!---LeetCode Topics End-->
