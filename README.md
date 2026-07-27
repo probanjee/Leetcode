@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/probanjee/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/probanjee/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/probanjee/Leetcode/tree/master/0211-design-add-and-search-words-data-structure) |
+| [0212-word-search-ii](https://github.com/probanjee/Leetcode/tree/master/0212-word-search-ii) |
 | [0696-count-binary-substrings](https://github.com/probanjee/Leetcode/tree/master/0696-count-binary-substrings) |
 | [0761-special-binary-string](https://github.com/probanjee/Leetcode/tree/master/0761-special-binary-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/probanjee/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -378,6 +379,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/probanjee/Leetcode/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/probanjee/Leetcode/tree/master/0200-number-of-islands) |
 | [0204-count-primes](https://github.com/probanjee/Leetcode/tree/master/0204-count-primes) |
+| [0212-word-search-ii](https://github.com/probanjee/Leetcode/tree/master/0212-word-search-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/probanjee/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1260-shift-2d-grid](https://github.com/probanjee/Leetcode/tree/master/1260-shift-2d-grid) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/probanjee/Leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
@@ -564,6 +566,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0140-word-break-ii](https://github.com/probanjee/Leetcode/tree/master/0140-word-break-ii) |
 | [0208-implement-trie-prefix-tree](https://github.com/probanjee/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/probanjee/Leetcode/tree/master/0211-design-add-and-search-words-data-structure) |
+| [0212-word-search-ii](https://github.com/probanjee/Leetcode/tree/master/0212-word-search-ii) |
 ## Backtracking
 |  |
 | ------- |
@@ -585,6 +588,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0126-word-ladder-ii](https://github.com/probanjee/Leetcode/tree/master/0126-word-ladder-ii) |
 | [0131-palindrome-partitioning](https://github.com/probanjee/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0140-word-break-ii](https://github.com/probanjee/Leetcode/tree/master/0140-word-break-ii) |
+| [0212-word-search-ii](https://github.com/probanjee/Leetcode/tree/master/0212-word-search-ii) |
 ## Stack
 |  |
 | ------- |
@@ -630,6 +634,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/probanjee/Leetcode/tree/master/0130-surrounded-regions) |
 | [0174-dungeon-game](https://github.com/probanjee/Leetcode/tree/master/0174-dungeon-game) |
 | [0200-number-of-islands](https://github.com/probanjee/Leetcode/tree/master/0200-number-of-islands) |
+| [0212-word-search-ii](https://github.com/probanjee/Leetcode/tree/master/0212-word-search-ii) |
 | [1260-shift-2d-grid](https://github.com/probanjee/Leetcode/tree/master/1260-shift-2d-grid) |
 ## Monotonic Stack
 |  |
