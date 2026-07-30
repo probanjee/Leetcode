@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0191-number-of-1-bits](https://github.com/probanjee/Leetcode/tree/master/0191-number-of-1-bits) |
 | [0201-bitwise-and-of-numbers-range](https://github.com/probanjee/Leetcode/tree/master/0201-bitwise-and-of-numbers-range) |
 | [0222-count-complete-tree-nodes](https://github.com/probanjee/Leetcode/tree/master/0222-count-complete-tree-nodes) |
+| [0231-power-of-two](https://github.com/probanjee/Leetcode/tree/master/0231-power-of-two) |
 | [0693-binary-number-with-alternating-bits](https://github.com/probanjee/Leetcode/tree/master/0693-binary-number-with-alternating-bits) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/probanjee/Leetcode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0868-binary-gap](https://github.com/probanjee/Leetcode/tree/master/0868-binary-gap) |
@@ -184,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0223-rectangle-area](https://github.com/probanjee/Leetcode/tree/master/0223-rectangle-area) |
 | [0224-basic-calculator](https://github.com/probanjee/Leetcode/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/probanjee/Leetcode/tree/master/0227-basic-calculator-ii) |
+| [0231-power-of-two](https://github.com/probanjee/Leetcode/tree/master/0231-power-of-two) |
 | [0628-maximum-product-of-three-numbers](https://github.com/probanjee/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/probanjee/Leetcode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/probanjee/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -601,6 +603,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0203-remove-linked-list-elements](https://github.com/probanjee/Leetcode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/probanjee/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0224-basic-calculator](https://github.com/probanjee/Leetcode/tree/master/0224-basic-calculator) |
+| [0231-power-of-two](https://github.com/probanjee/Leetcode/tree/master/0231-power-of-two) |
 ## Sliding Window
 |  |
 | ------- |
