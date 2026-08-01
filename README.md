@@ -187,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0227-basic-calculator-ii](https://github.com/probanjee/Leetcode/tree/master/0227-basic-calculator-ii) |
 | [0231-power-of-two](https://github.com/probanjee/Leetcode/tree/master/0231-power-of-two) |
 | [0233-number-of-digit-one](https://github.com/probanjee/Leetcode/tree/master/0233-number-of-digit-one) |
+| [0486-predict-the-winner](https://github.com/probanjee/Leetcode/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/probanjee/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/probanjee/Leetcode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/probanjee/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -423,6 +424,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0221-maximal-square](https://github.com/probanjee/Leetcode/tree/master/0221-maximal-square) |
 | [0228-summary-ranges](https://github.com/probanjee/Leetcode/tree/master/0228-summary-ranges) |
 | [0229-majority-element-ii](https://github.com/probanjee/Leetcode/tree/master/0229-majority-element-ii) |
+| [0486-predict-the-winner](https://github.com/probanjee/Leetcode/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/probanjee/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1260-shift-2d-grid](https://github.com/probanjee/Leetcode/tree/master/1260-shift-2d-grid) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/probanjee/Leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
@@ -488,6 +490,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/probanjee/Leetcode/tree/master/0213-house-robber-ii) |
 | [0221-maximal-square](https://github.com/probanjee/Leetcode/tree/master/0221-maximal-square) |
 | [0233-number-of-digit-one](https://github.com/probanjee/Leetcode/tree/master/0233-number-of-digit-one) |
+| [0486-predict-the-winner](https://github.com/probanjee/Leetcode/tree/master/0486-predict-the-winner) |
 | [0799-champagne-tower](https://github.com/probanjee/Leetcode/tree/master/0799-champagne-tower) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/probanjee/Leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Greedy
@@ -607,6 +610,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0224-basic-calculator](https://github.com/probanjee/Leetcode/tree/master/0224-basic-calculator) |
 | [0231-power-of-two](https://github.com/probanjee/Leetcode/tree/master/0231-power-of-two) |
 | [0233-number-of-digit-one](https://github.com/probanjee/Leetcode/tree/master/0233-number-of-digit-one) |
+| [0486-predict-the-winner](https://github.com/probanjee/Leetcode/tree/master/0486-predict-the-winner) |
 ## Sliding Window
 |  |
 | ------- |
@@ -809,4 +813,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/probanjee/Leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/probanjee/Leetcode/tree/master/0232-implement-queue-using-stacks) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/probanjee/Leetcode/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
