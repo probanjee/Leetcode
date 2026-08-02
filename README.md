@@ -191,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/probanjee/Leetcode/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/probanjee/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/probanjee/Leetcode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
+| [0877-stone-game](https://github.com/probanjee/Leetcode/tree/master/0877-stone-game) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/probanjee/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/probanjee/Leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/probanjee/Leetcode/tree/master/3514-number-of-unique-xor-triplets-ii) |
@@ -427,6 +428,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/probanjee/Leetcode/tree/master/0229-majority-element-ii) |
 | [0486-predict-the-winner](https://github.com/probanjee/Leetcode/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/probanjee/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0877-stone-game](https://github.com/probanjee/Leetcode/tree/master/0877-stone-game) |
 | [1260-shift-2d-grid](https://github.com/probanjee/Leetcode/tree/master/1260-shift-2d-grid) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/probanjee/Leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/probanjee/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -493,6 +495,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0233-number-of-digit-one](https://github.com/probanjee/Leetcode/tree/master/0233-number-of-digit-one) |
 | [0486-predict-the-winner](https://github.com/probanjee/Leetcode/tree/master/0486-predict-the-winner) |
 | [0799-champagne-tower](https://github.com/probanjee/Leetcode/tree/master/0799-champagne-tower) |
+| [0877-stone-game](https://github.com/probanjee/Leetcode/tree/master/0877-stone-game) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/probanjee/Leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Greedy
 |  |
@@ -821,4 +824,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/probanjee/Leetcode/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/probanjee/Leetcode/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
