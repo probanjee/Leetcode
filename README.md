@@ -281,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/probanjee/Leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/probanjee/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/probanjee/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/probanjee/Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/probanjee/Leetcode/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 ## Depth-First Search
 |  |
@@ -312,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0211-design-add-and-search-words-data-structure](https://github.com/probanjee/Leetcode/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0226-invert-binary-tree](https://github.com/probanjee/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/probanjee/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/probanjee/Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/probanjee/Leetcode/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [2685-count-the-number-of-complete-components](https://github.com/probanjee/Leetcode/tree/master/2685-count-the-number-of-complete-components) |
 ## Binary Tree
@@ -346,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/probanjee/Leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/probanjee/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/probanjee/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/probanjee/Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/probanjee/Leetcode/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 ## Array
 |  |
@@ -742,6 +745,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/probanjee/Leetcode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0173-binary-search-tree-iterator](https://github.com/probanjee/Leetcode/tree/master/0173-binary-search-tree-iterator) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/probanjee/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/probanjee/Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 ## Design
 |  |
 | ------- |
