@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0214-shortest-palindrome](https://github.com/probanjee/Leetcode/tree/master/0214-shortest-palindrome) |
 | [0224-basic-calculator](https://github.com/probanjee/Leetcode/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/probanjee/Leetcode/tree/master/0227-basic-calculator-ii) |
+| [0241-different-ways-to-add-parentheses](https://github.com/probanjee/Leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0696-count-binary-substrings](https://github.com/probanjee/Leetcode/tree/master/0696-count-binary-substrings) |
 | [0761-special-binary-string](https://github.com/probanjee/Leetcode/tree/master/0761-special-binary-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/probanjee/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -189,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0227-basic-calculator-ii](https://github.com/probanjee/Leetcode/tree/master/0227-basic-calculator-ii) |
 | [0231-power-of-two](https://github.com/probanjee/Leetcode/tree/master/0231-power-of-two) |
 | [0233-number-of-digit-one](https://github.com/probanjee/Leetcode/tree/master/0233-number-of-digit-one) |
+| [0241-different-ways-to-add-parentheses](https://github.com/probanjee/Leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0486-predict-the-winner](https://github.com/probanjee/Leetcode/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/probanjee/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/probanjee/Leetcode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
@@ -506,6 +508,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/probanjee/Leetcode/tree/master/0213-house-robber-ii) |
 | [0221-maximal-square](https://github.com/probanjee/Leetcode/tree/master/0221-maximal-square) |
 | [0233-number-of-digit-one](https://github.com/probanjee/Leetcode/tree/master/0233-number-of-digit-one) |
+| [0241-different-ways-to-add-parentheses](https://github.com/probanjee/Leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0486-predict-the-winner](https://github.com/probanjee/Leetcode/tree/master/0486-predict-the-winner) |
 | [0799-champagne-tower](https://github.com/probanjee/Leetcode/tree/master/0799-champagne-tower) |
 | [0877-stone-game](https://github.com/probanjee/Leetcode/tree/master/0877-stone-game) |
@@ -632,6 +635,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/probanjee/Leetcode/tree/master/0231-power-of-two) |
 | [0233-number-of-digit-one](https://github.com/probanjee/Leetcode/tree/master/0233-number-of-digit-one) |
 | [0234-palindrome-linked-list](https://github.com/probanjee/Leetcode/tree/master/0234-palindrome-linked-list) |
+| [0241-different-ways-to-add-parentheses](https://github.com/probanjee/Leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0486-predict-the-winner](https://github.com/probanjee/Leetcode/tree/master/0486-predict-the-winner) |
 ## Sliding Window
 |  |
@@ -751,6 +755,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/probanjee/Leetcode/tree/master/0070-climbing-stairs) |
 | [0139-word-break](https://github.com/probanjee/Leetcode/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/probanjee/Leetcode/tree/master/0140-word-break-ii) |
+| [0241-different-ways-to-add-parentheses](https://github.com/probanjee/Leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -855,4 +860,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/probanjee/Leetcode/tree/master/0239-sliding-window-maximum) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0241-different-ways-to-add-parentheses](https://github.com/probanjee/Leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 <!---LeetCode Topics End-->
