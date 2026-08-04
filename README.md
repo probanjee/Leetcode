@@ -495,6 +495,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/probanjee/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/probanjee/Leetcode/tree/master/0268-missing-number) |
 | [0275-h-index-ii](https://github.com/probanjee/Leetcode/tree/master/0275-h-index-ii) |
+| [0278-first-bad-version](https://github.com/probanjee/Leetcode/tree/master/0278-first-bad-version) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/probanjee/Leetcode/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/probanjee/Leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Dynamic Programming
@@ -896,4 +897,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0241-different-ways-to-add-parentheses](https://github.com/probanjee/Leetcode/tree/master/0241-different-ways-to-add-parentheses) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/probanjee/Leetcode/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
