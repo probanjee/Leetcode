@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/probanjee/Leetcode/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/probanjee/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0273-integer-to-english-words](https://github.com/probanjee/Leetcode/tree/master/0273-integer-to-english-words) |
+| [0282-expression-add-operators](https://github.com/probanjee/Leetcode/tree/master/0282-expression-add-operators) |
 | [0696-count-binary-substrings](https://github.com/probanjee/Leetcode/tree/master/0696-count-binary-substrings) |
 | [0761-special-binary-string](https://github.com/probanjee/Leetcode/tree/master/0761-special-binary-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/probanjee/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -205,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/probanjee/Leetcode/tree/master/0268-missing-number) |
 | [0273-integer-to-english-words](https://github.com/probanjee/Leetcode/tree/master/0273-integer-to-english-words) |
 | [0279-perfect-squares](https://github.com/probanjee/Leetcode/tree/master/0279-perfect-squares) |
+| [0282-expression-add-operators](https://github.com/probanjee/Leetcode/tree/master/0282-expression-add-operators) |
 | [0486-predict-the-winner](https://github.com/probanjee/Leetcode/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/probanjee/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/probanjee/Leetcode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
@@ -713,6 +715,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0212-word-search-ii](https://github.com/probanjee/Leetcode/tree/master/0212-word-search-ii) |
 | [0216-combination-sum-iii](https://github.com/probanjee/Leetcode/tree/master/0216-combination-sum-iii) |
 | [0257-binary-tree-paths](https://github.com/probanjee/Leetcode/tree/master/0257-binary-tree-paths) |
+| [0282-expression-add-operators](https://github.com/probanjee/Leetcode/tree/master/0282-expression-add-operators) |
 ## Stack
 |  |
 | ------- |
