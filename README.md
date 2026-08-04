@@ -461,6 +461,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/probanjee/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0260-single-number-iii](https://github.com/probanjee/Leetcode/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/probanjee/Leetcode/tree/master/0268-missing-number) |
+| [0275-h-index-ii](https://github.com/probanjee/Leetcode/tree/master/0275-h-index-ii) |
 | [0486-predict-the-winner](https://github.com/probanjee/Leetcode/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/probanjee/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/probanjee/Leetcode/tree/master/0877-stone-game) |
@@ -493,6 +494,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/probanjee/Leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0240-search-a-2d-matrix-ii](https://github.com/probanjee/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/probanjee/Leetcode/tree/master/0268-missing-number) |
+| [0275-h-index-ii](https://github.com/probanjee/Leetcode/tree/master/0275-h-index-ii) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/probanjee/Leetcode/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/probanjee/Leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Dynamic Programming
