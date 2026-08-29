@@ -171,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0761-special-binary-string](https://github.com/probanjee/Leetcode/tree/master/0761-special-binary-string) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/probanjee/Leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/probanjee/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/probanjee/Leetcode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/probanjee/Leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/probanjee/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
 | [3731-find-missing-elements](https://github.com/probanjee/Leetcode/tree/master/3731-find-missing-elements) |
@@ -483,6 +484,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/probanjee/Leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1406-stone-game-iii](https://github.com/probanjee/Leetcode/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/probanjee/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/probanjee/Leetcode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/probanjee/Leetcode/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/probanjee/Leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/probanjee/Leetcode/tree/master/3514-number-of-unique-xor-triplets-ii) |
@@ -639,6 +641,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/probanjee/Leetcode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/probanjee/Leetcode/tree/master/0200-number-of-islands) |
 | [2685-count-the-number-of-complete-components](https://github.com/probanjee/Leetcode/tree/master/2685-count-the-number-of-complete-components) |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/probanjee/Leetcode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Linked List
 |  |
 | ------- |
